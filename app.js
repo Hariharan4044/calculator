@@ -1,5 +1,4 @@
 let textField = document.getElementById("text");
-
 let btnAc = document.getElementById("btnAc");
 let btnDe = document.getElementById("btnDe");
 let btnPercentage = document.getElementById("btnPercentage");
