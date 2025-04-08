@@ -5,7 +5,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background:linear-gradient(45deg,#7FFFD4,#3a4452);
+    background:linear-gradient(50deg,#7FFFD4,#3a4452);
 }
 table{
     background-color: black;
